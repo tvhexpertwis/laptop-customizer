@@ -41,5 +41,4 @@ function Customize(props) {
   )
 }
 
-
 export default Customize;
